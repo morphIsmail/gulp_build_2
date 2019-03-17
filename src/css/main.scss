@@ -1,0 +1,13 @@
+@import 'color';
+
+body {
+   background: $primary-color-dark;
+}
+h1 {
+   color: $secondary-text-color;
+   &:hover {
+      background: $primary-color-text;
+      cursor: pointer;
+      border: 1px solid $primary-color;
+   }
+}

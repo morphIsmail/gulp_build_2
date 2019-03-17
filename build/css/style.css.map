@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.styl"],"names":[],"mappings":"AAAA,KACE,WAAA,KACA,MAAA,KACA,WACC,MAAA,IACA,OAAA,QACA,UAAA","file":"style.css","sourcesContent":["body\r\n  background #000\r\n  color #fff\r\n  &:hover\r\n   color red\r\n   cursor pointer\r\n   font-size 25px\r\n   "]}
